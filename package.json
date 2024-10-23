@@ -1,0 +1,21 @@
+{
+  "name": "code-lume",
+  "displayName": "CodeLume",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CodeLume",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CodeLume-color-theme.json"
+      }
+    ]
+  }
+}
